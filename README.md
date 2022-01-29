@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @username-is-not
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include <std_disclaimer.h>
 
-<!---
-username-is-not/username-is-not is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at us for messing up your device, we will laugh at you.
+ * Use at your Own Risk.
+ *
+ */
